@@ -20,15 +20,17 @@ I am basing my design on exsiting "Pod Archetypes". I mainly looked at VEXU COME
 ## Design
 After ~1h of research I got started on design. I wanted to use a 2.5in colson but, VEX shut down their VEX Pro product line so no colsons and no 2.5 in. I opted for a 3in gobuilda wheel instead.
 
-*bevel gear base*
+![Base Bevel Gears](<Screenshot 2026-05-15 210551.png>)
 
-*with wheel and v-slot bearing guides*
-
+![V1](<Screenshot 2026-05-15 224259.png>)
+![alt text](<Screenshot 2026-05-16 124344.png>)
 ### It's now 2 AM so kinda May 16th?
 
 I decided to switch wheels, I'm using MAX Traction wheels from REV Robotics now. 
 
 I also made the top plate a seperete V slot so it can hold the wheel and I made the top gear have a internal V-slot. (This will later change a lot). V1 of the pod is now done.
+![alt text](<Screenshot 2026-05-16 014004.png>)
+
 
 # May 16th and 17th
 
@@ -39,15 +41,22 @@ Starting to change the top plate already... Sliming it down first and finding a 
 
 Because the bearing block will hold the entire weight of the robot I decided to run it through simulations. I dabled in shape optimization.
 
-*images*
+![alt text](<Screenshot 2026-05-16 184449.png>)
+![alt text](<Screenshot 2026-05-17 003821.png>)
+![alt text](<Screenshot 2026-05-17 003847.png>)
+
 
 My design sucks so time to restart. V2 just gives a direct path for forces to travel. inspired by SDS's Bearing blocks on the MK5 series.
 
-*Image*
+![alt text](<Screenshot 2026-05-17 224912.png>)
+![alt text](<Bearing Block.png>)
 
-In this iteration I also swapped to x contact bearing as I do not belive in the v slot with 3d prints staying ridged so yeah.
+In this iteration I also swapped to x contact bearing as I do not believe in the v slot with 3d prints staying ridged so yeah.
+
 
 The design is made with a circle and a sphere and is quite elegant. Fits well good packaging and have not changed it since.
+
+![alt text](image-1.png)
 
 # May 18th 
 
@@ -63,6 +72,8 @@ This one came to life and the packaging was okay. It was based on 4 cylyders and
 
 It's fat... really fat... bigger than the MK4's because of my choice of motor, the Neo 550, spins at 11000 RPM and needs a lot of reduction.
 
+![alt text](image-2.png)
+
 # May 20th and 21st
 
 hours: ~2h
@@ -73,6 +84,7 @@ I didn't stay up over night this time. I just decided to bundle it cuz it was al
 This time I wrapped it around the center of the module. Far more space effective. I also reused one of the screws putting two gears on one, more efficient.
 
 Yay it fits nicely now, smaller than a mk4i.
+![alt text](<Main (3).png>)
 
 # May 21st
 Time Spent: ~2h
@@ -88,8 +100,9 @@ Yay not a full version!!! Cuz I basically just redid the top plate and flipped t
 
 ## Hall Effect Encoder
 
-Whoops almost forgot that one. I added a magnetic encoder to know where the wheel is. Side note: why does the generic as5600 bearkout have like no docs?
+Whoops almost forgot that one. I added a magnetic encoder to know where the wheel is. Side note: why does the generic as5600 breakout have like no docs?
 
+![alt text](<Main (2).png>)
 # May 23rd
 
 Time Spent: 1 hour
