@@ -1,7 +1,7 @@
 ---
-title: "AstralCNC"
+title: "Diffy Swerve Drive"
 author: "RunTheBot"
-description: "Replacement board for the Larken StarCNC controller, built around the RPI Pico."
+description: "Mostly 3D printed differential swerve"
 created_at: "2025-06-17"
 ---
 # Journal
