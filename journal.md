@@ -6,7 +6,7 @@ created_at: "2025-06-17"
 ---
 # Journal
 
-Hours: ~36h
+Hours: ~38h
 
 # May 15th
 
@@ -109,5 +109,6 @@ Time Spent: 1 hour
 I did this journal. I love procrastinating journal.
 
 #May 25th
+Time Spent: 1 hour
 
 BOM... Thats it
