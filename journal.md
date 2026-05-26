@@ -6,7 +6,7 @@ created_at: "2025-06-17"
 ---
 # Journal
 
-Hours: ~38h
+Hours: 31 hours
 
 # May 15th
 
@@ -60,6 +60,8 @@ The design is made with a circle and a sphere and is quite elegant. Fits well go
 
 # May 18th 
 
+Hours: 6h 
+
 It's Victoria Day!
 
 Time to spend 6 hours crashing out about a gearbox! and just improving things all round
@@ -108,7 +110,15 @@ Whoops almost forgot that one. I added a magnetic encoder to know where the whee
 Time Spent: 1 hour
 I did this journal. I love procrastinating journal.
 
-#May 25th
-Time Spent: 1 hour
+# May 24th
+Time Spent: 2 hours
+
+More gearbox changes. Adjusted angles and adding more tolerance.  
+More Encoder changes. Adding more tolerance.
+
+# May 25th
+Time Spent: 2 hour
 
 BOM... Thats it
+
+and submitted the project.
