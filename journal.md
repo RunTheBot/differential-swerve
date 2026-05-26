@@ -108,3 +108,6 @@ Whoops almost forgot that one. I added a magnetic encoder to know where the whee
 Time Spent: 1 hour
 I did this journal. I love procrastinating journal.
 
+#May 25th
+
+BOM... Thats it
